@@ -9,3 +9,7 @@ For education
 ## running
 
     ruby main.rb
+
+
+٩(ˊᗜˋ*)و
+
